@@ -1,5 +1,7 @@
 # NCAA Athletic Subsidy Analysis
 
+![NCAA subsidy dashboard](dashboard.png)
+
 Most public Division I athletic departments do not pay for themselves. Across 240 public D-I schools in FY2024, the typical school covered only about a third of its athletic budget with money it earned, and the rest came from student fees and institutional or government support. 151 of those 240 schools leaned on subsidies for more than half their athletic funding.
 
 ## The question
