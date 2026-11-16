@@ -77,3 +77,12 @@ The raw Knight-Newhouse export is not redistributed here. Pull it yourself from 
 ## Running it
 
 The analysis was built on a machine with no prior Python install, using uv to manage the environment:
+```
+uv run --with pandas --with openpyxl analyze_ncaa.py
+```
+
+That reads the Knight-Newhouse export and writes `ncaa_analyzed.csv`. Open `NCAA_Subsidies.pbix` in Power BI Desktop to explore the dashboard.
+
+## Data credit
+
+Data: Knight-Newhouse College Athletics Database (knightnewhousedata.org). Used for non-commercial purposes with credit, as the source requires.
